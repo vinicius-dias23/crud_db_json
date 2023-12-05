@@ -1,0 +1,11 @@
+npm i react-router-dom
+
+npm i jason-server
+
+abrir outro terminal >>>>>
+
+npm run server
+
+agora voltar >>>>>>>>>>
+
+npm run dev
